@@ -1,2 +1,2 @@
 # arduino-webserver
-Web Server to control the home lights with esp8266 or custom firmware for Sonoff
+Automação residencial com webserver para esp01, esp8266 ou Sonoff
